@@ -1,4 +1,5 @@
 *DESAFIO DAS CARTAS DO SUPER TRUNFO*
+
 **1) NÍVEL BÁSICO: criar um programa em C que permita ao usuário inserir os dados de duas cartas do Super Trunfo. Para cada carta, o usuário deverá fornecer as seguintes informações:**
 
       Estado: Uma letra de 'A' a 'H' (representando um dos oito estados). Tipo: char
