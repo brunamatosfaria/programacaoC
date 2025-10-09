@@ -343,6 +343,5 @@ int main (){
             printf("\nRESULTADO: Houve um empate!\n");
         }
     }
-
     return 0;
 }
