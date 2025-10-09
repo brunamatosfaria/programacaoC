@@ -88,7 +88,7 @@ int main (){
     printf("Densidade: %.2f hab/km2\n", densidade2);
     printf("PIB per capita: %.2f reais\n", percapita2);
 
-    //BATALHA DE CARTAR NO SUPER TRUNFO
+    //BATALHA DE CARTAS NO SUPER TRUNFO
     unsigned long int populacaof;
     int nptoturisticos;
     float area, PIB, densidade, percapita, superpoder;
