@@ -2,8 +2,6 @@
 
 #define TAM 10 // Definindo tamanho da matriz
 
-#define TAMANHO_HABILIDADE 5
-
 int main(){
     //Criando tabuleiro (Matriz 10 x 10)
     int tabuleiro [TAM][TAM] = {0}; // Inicializando com 0 representando água
