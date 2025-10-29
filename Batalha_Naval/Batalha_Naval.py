@@ -1,6 +1,5 @@
 # Definindo tamanho da matriz
 TAM = 10
-TAMANHO_HABILIDADE = 5
 
 def main():
     # Criando tabuleiro (Matriz 10 x 10) com 0 representando água
